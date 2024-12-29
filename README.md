@@ -10,8 +10,8 @@ Build out a recipe page and get it looking as close to the design as possible.
 ![screenshot](./screenshot.png)
 
 ## Links
-
-
+- [Solution](https://github.com/LandonRGeorge/fem-recipe-page)
+- [Live Site](https://landonrgeorge.github.io/fem-recipe-page/)
 
 ## Built with
 
